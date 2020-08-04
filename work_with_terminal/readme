@@ -1,0 +1,2 @@
+use:
+bash ./write_disk_info.sh
